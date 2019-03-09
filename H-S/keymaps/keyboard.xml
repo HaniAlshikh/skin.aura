@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<keymap> 
+    <global> 
+        <keyboard> 
+            <F3>Skin.ToggleDebug<F3>
+            <F5>ReloadSkin()</F5> 
+            <F4>Skin.ToggleSetting(DebugGrid)</F4> 
+            <F6>Notification(Testing 123,Hello world)</F6> 
+			<F7>Skin.ToggleSetting(HideDebugInfo)</F7>
+            <F8>Skin.ToggleSetting(DebugInfo)</F8>
+        </keyboard> 
+    </global> 
+</keymap>
